@@ -1,4 +1,4 @@
-[![MasterHead](https://iili.io/HMssrZu.png)](https://www.linkedin.com/in/fzdeveloper/)
+[![MasterHead](https://iili.io/HMsLSlR.jpg)](https://www.linkedin.com/in/fzdeveloper/)
 
 <img align="right" alt="Coding" width="400" src="https://media.tumblr.com/tumblr_manpm1BV311rq0hnm.gif">
 
