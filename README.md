@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tumblr.com/tumblr_manpm1BV311rq0hnm.gif">
 
-- 🔭 I’m currently working on [No Country (MoonBank Project)](https://github.com/No-Country/c9-02-t-csharp-react)
+- 🔭 I’m currently working on [No Country (MiMascota Project)](https://github.com/No-Country/s7-01-csharp-react))
 
 - 🌱 I’m currently learning **JWT (Json Web Token)**
 
